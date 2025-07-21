@@ -1,0 +1,30 @@
+{
+  "errors": {
+    "taskRequired": "Ju lutem, shkruani një detyrë"
+  },
+  "labels": {
+    "taskInput": "Ju lutem, shkruani detyrën tuaj"
+  },
+  "buttons": {
+    "addTask": "Shto Detyrë",
+    "clearCompleted": "Fshi të përfunduara"
+  },
+  "placeholders": {
+    "task": "Shkruani detyrën tuaj"
+  },
+  "aria": {
+    "taskInput": "Shkruani detyrën tuaj këtu",
+    "submitTask": "Shto detyrë",
+    "filterBy": "Filtro detyrat sipas {{filter}}",
+    "clearCompleted": "Fshij detyrat e përfunduara"
+  },
+  "tasks": {
+    "count": "{{count}} detyrë",
+    "count_plural": "{{count}} detyra"
+  },
+  "filters": {
+    "all": "Të gjitha",
+    "active": "Aktive",
+    "completed": "Të përfunduara"
+  }
+}

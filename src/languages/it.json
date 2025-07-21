@@ -1,0 +1,30 @@
+{
+  "errors": {
+    "taskRequired": "Per favore, inserisci un'attività"
+  },
+  "labels": {
+    "taskInput": "Per favore, inserisci la tua attività"
+  },
+  "buttons": {
+    "addTask": "Aggiungi attività",
+    "clearCompleted": "Cancella completate"
+  },
+  "placeholders": {
+    "task": "Inserisci la tua attività"
+  },
+  "aria": {
+    "taskInput": "Inserisci la tua attività qui",
+    "submitTask": "Aggiungi attività",
+    "filterBy": "Filtra attività per {{filter}}",
+    "clearCompleted": "Cancella le attività completate"
+  },
+  "tasks": {
+    "count": "{{count}} attività",
+    "count_plural": "{{count}} attività"
+  },
+  "filters": {
+    "all": "Tutte",
+    "active": "Attive",
+    "completed": "Completate"
+  }
+}

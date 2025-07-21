@@ -1,0 +1,30 @@
+{
+  "errors": {
+    "taskRequired": "Please enter a task"
+  },
+  "labels": {
+    "taskInput": "Please enter your task"
+  },
+  "buttons": {
+    "addTask": "Add Task",
+    "clearCompleted": "Clear Completed"
+  },
+  "placeholders": {
+    "task": "Enter your task"
+  },
+  "aria": {
+    "taskInput": "Enter your task here",
+    "submitTask": "Add task",
+    "filterBy": "Filter tasks by {{filter}}",
+    "clearCompleted": "Clear completed tasks"
+  },
+  "tasks": {
+    "count": "{{count}} task",
+    "count_plural": "{{count}} tasks"
+  },
+  "filters": {
+    "all": "All",
+    "active": "Active",
+    "completed": "Completed"
+  }
+}
